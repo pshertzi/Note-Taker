@@ -1,6 +1,9 @@
-[
+{
+  "notesArray": [
     {
-        "title":"Test Title",
-        "text":"Test text"
+      "title": "Fight",
+      "text": "fight the bebe cats\n",
+      "id": "0"
     }
-]
+  ]
+}
