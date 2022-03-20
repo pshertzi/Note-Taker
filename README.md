@@ -33,4 +33,4 @@ npm i
 Type npm start in termianl and naviage to the the site below
 
 ### Website Link
-Check out the deployed app here: [Note Taker](hhttps://serene-inlet-90450.herokuapp.com/)
+Check out the deployed app here: [Note Taker](https://sheltered-garden-29553.herokuapp.com)
